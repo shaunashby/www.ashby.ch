@@ -3,6 +3,9 @@ body {
 	background-image: url("../images/IMG_2277.JPG");
 }
 
+div.navbar.navbar-default.navbar-fixed-top {
+}
+
 p.lead {
 }
 
@@ -15,6 +18,15 @@ div.page-header {
 	border-bottom: 1px solid black;
 }
 
+div.container {
+/*
+    -webkit-filter: blur(20px);
+    -moz-filter: blur(20px);
+    -o-filter: blur(20px);
+    -ms-filter: blur(20px);
+    filter: blur(20px);
+    opacity: 0.4;
+*/
 }
 
 div#footer {
