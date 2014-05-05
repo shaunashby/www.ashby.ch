@@ -31,6 +31,14 @@ div.container {
 */
 }
 
+div#goals {
+	background-color: rgba(110,160,252,0.30);
+	border: 2px solid rgba(110,160,252);
+	padding: 5px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
 div#footer {
 	height: 125px;
 	background-color: rgba(127,127,127,0.65);
