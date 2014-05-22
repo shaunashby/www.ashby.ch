@@ -1,5 +1,6 @@
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #393939;
 	line-height: 1.4;
 	background-image: url("../images/IMG_2277.JPG");
 }
@@ -31,10 +32,11 @@ div#goals {
 }
 
 div#footer {
-	height: 125px;
-	background-color: rgba(127,127,127,0.65);
-	background-image: url("../images/squares.gif");
+	padding-top: 5px;
+	height: 165px;
+	background-color: #393939;
 	font-size: smaller;
+	color: white;
 	}
 
 
