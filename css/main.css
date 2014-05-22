@@ -2,21 +2,28 @@ body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	color: #393939;
 	line-height: 1.4;
-	background-image: url("../images/IMG_2277.JPG");
+/* 	background-image: url("../images/IMG_2277.JPG"); */
 }
 
-div.navbar.navbar-default.navbar-fixed-top {
-	background-color: rgba(127,127,127,0.50);
-	border-color: transparent;
+div.navbar-inverse.navbar-default.navbar-fixed-top {
+	background-color: #393939;
+}
+
+.jumbotron {
+	background-image: url("../images/IMG_2277.JPG");
+	height:  800px;
 }
 
 div.page-header h1 {
-	font-size: 45px;
-	margin-top: 200px;
+	font-size: 65px;
 }
 
 div.page-header {
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid #393939;
+}
+
+ul.nav-tabs {
+	margin-bottom: 10px;
 }
 
 div.panel {
