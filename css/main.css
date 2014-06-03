@@ -1,7 +1,8 @@
 /* Core CSS settings */
 html {
-  position: relative;
-  min-height: 100%;
+	position: relative;
+	min-height: 100%;
+	color: #393939;
 }
 
 body {
