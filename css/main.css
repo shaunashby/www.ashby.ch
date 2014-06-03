@@ -6,7 +6,7 @@ html {
 }
 
 body {
-	padding-bottom: 70px;
+	font-size: 15px;
  	font-family: 'Helvetica Neue','Arial','Liberation Sans','FreeSans', sans-serif;
  	background: #393939 url("../images/IMG_2277.JPG") no-repeat;
  	background-size: 100%;
