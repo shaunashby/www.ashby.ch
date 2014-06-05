@@ -12,9 +12,9 @@
 //
 //--------------------------------------------------------------------
 
-(function($){
-	"use script";
-	$("#wip_button").click(function(){
-		alert("This button isn't active yet. All it does is show this lousy popup....");
+$(function(){
+	"use strict";
+	$(".btn.btn-sm").click(function(){
+		alert("This button isn't active yet. All it does is show this lousy popup....sorry!");
 	});
-})(jQuery);
+});
