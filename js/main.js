@@ -17,4 +17,11 @@ $(function(){
 	$(".btn.btn-sm").click(function(){
 		alert("This button isn't active yet. All it does is show this lousy popup....sorry!");
 	});
+	$("div#about,div#projects,div#interests").mouseenter(function(){
+		$(this).addClass("myinfo");
+	});
+	$("div#about,div#projects,div#interests").mouseleave(function(){
+		$(this).removeClass("myinfo");
+	});
+	
 });
